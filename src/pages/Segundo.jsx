@@ -1,4 +1,5 @@
 import LinkPrimeiro from "../components/LinkPrimeiro";
+import LinkGenerico from "../components/LinkGenerico/LinkGenerico";
 
 const Segundo = () => {
     return (<div>
